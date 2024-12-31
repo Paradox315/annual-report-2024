@@ -1,0 +1,114 @@
+headline: 生活篇
+title: 缤纷生活 美好时光
+description: 2024年的生活充满欢乐与惊喜，感恩遇见的每一个瞬间
+
+sections:
+  - title: 旅行足迹
+    icon: i-heroicons-map
+    description: 走过9座城市，从炎热的重庆到寒冷的北国，经历过四十度的酷暑，也感受过零下温度的凛冬
+    image: /images/life/travel.png
+    highlights:
+      - label: 城市数量
+        value: "9"
+        icon: i-heroicons-building-office-2
+      - label: 最高温度
+        value: "40°C"
+        icon: i-heroicons-sun
+      - label: 最低温度
+        value: "0°C"
+        icon: i-heroicons-moon
+
+  - title: 出行方式
+    icon: i-heroicons-truck
+    description: 体验多样化的交通工具，高铁是最常用且最喜欢的出行方式，穿梭于城市之间
+    image: /images/life/transport.png
+    highlights:
+      - label: 高铁次数
+        value: "9"
+        icon: i-heroicons-truck
+      - label: 飞机次数
+        value: "2"
+        icon: i-heroicons-paper-airplane
+      - label: 地铁次数
+        value: "n+"
+        icon: i-heroicons-rocket-launch
+
+  - title: 美食探索
+    icon: i-heroicons-cake
+    description: 探寻各地美食，品尝7家火锅、8家烤肉、多种异国料理，感受舌尖上的美味
+    image: /images/life/food.png
+    highlights:
+      - label: 火锅店数
+        value: "7+"
+        icon: i-heroicons-fire
+      - label: 烤肉店数
+        value: "8"
+        icon: i-heroicons-beaker
+      - label: 料理种类
+        value: "10+"
+        icon: i-heroicons-cake
+
+  - title: 娱乐生活
+    icon: i-heroicons-musical-note
+    description: 麻将、KTV、演唱会、手工、猫咪馆，丰富多彩的休闲活动让生活更有趣
+    image: /images/life/entertainment.png
+    highlights:
+      - label: 麻将次数
+        value: "10+"
+        icon: i-heroicons-puzzle-piece
+      - label: 演唱会
+        value: "2"
+        icon: i-heroicons-musical-note
+      - label: 猫咖次数
+        value: "3"
+        icon: i-heroicons-heart
+
+  - title: 社交活动
+    icon: i-heroicons-user-group
+    description: 留任学生会，认识30+新朋友，发布300+朋友圈，记录分享生活点滴
+    image: /images/life/social.png
+    highlights:
+      - label: 新朋友
+        value: "30+"
+        icon: i-heroicons-users
+      - label: 朋友圈
+        value: "300+"
+        icon: i-heroicons-chat-bubble-left
+      - label: 小红书
+        value: "7"
+        icon: i-heroicons-photo
+
+  - title: 消费记录
+    icon: i-heroicons-shopping-bag
+    description: 美团消费5918元，成为资深点外卖达人，体重稳定上升3斤
+    image: /images/life/consumption.png
+    highlights:
+      - label: 美团消费
+        value: "5918"
+        icon: i-heroicons-banknotes
+        unit: 元
+      - label: 体重变化
+        value: "+3"
+        icon: i-heroicons-scale
+        unit: 斤
+      - label: 外卖次数
+        value: "n+"
+        icon: i-heroicons-shopping-cart
+
+  - title: 运动健康
+    icon: i-heroicons-heart
+    description: 坚持每周打羽毛球，尝试健身房和游泳，追求健康生活
+    image: /images/life/sports.png
+    highlights:
+      - label: 羽毛球
+        value: "12+"
+        icon: i-heroicons-play
+        unit: 周
+      - label: 健身房
+        value: "5+"
+        icon: i-heroicons-trophy
+        unit: 次
+      - label: 游泳
+        value: "3"
+        icon: i-heroicons-water
+        unit: 次

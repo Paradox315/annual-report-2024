@@ -1,0 +1,107 @@
+headline: 学习篇
+title: 学海无涯 砥砺前行
+description: 2024年的学习生活充实而有意义，每一份付出都值得铭记
+
+sections:
+  - title: 课程学习与考试
+    icon: i-heroicons-academic-cap
+    description: 今年修读6门课程，统计计算99分，硕士英语83分，全部顺利通过
+    image: /images/study/course.png
+    highlights:
+      - label: 课程数
+        value: "6"
+        icon: i-heroicons-book-open
+      - label: 最高分
+        value: "99"
+        icon: i-heroicons-star
+      - label: 最低分
+        value: "83"
+        icon: i-heroicons-chart-bar
+
+  - title: 竞赛与答辩
+    icon: i-heroicons-presentation-chart-bar
+    description: 参加市场分析大赛并获奖，完成5次重要答辩
+    image: /images/study/presentation.png
+    highlights:
+      - label: 竞赛获奖
+        value: "1"
+        icon: i-heroicons-trophy
+      - label: 答辩次数
+        value: "5"
+        icon: i-heroicons-microphone
+
+  - title: 报告与资料
+    icon: i-heroicons-document-text
+    description: 撰写多篇学术报告，查阅大量文献资料
+    image: /images/study/paper.png
+    highlights:
+      - label: 课程报告
+        value: "7"
+        icon: i-heroicons-document
+      - label: 开题报告
+        value: "1"
+        icon: i-heroicons-document-plus
+      - label: 文献数量
+        value: "50+"
+        icon: i-heroicons-book
+
+  - title: 编程技能
+    icon: i-heroicons-code-bracket
+    description: 掌握R语言和Python编程，学习多个数据模型
+    image: /images/study/code.png
+    highlights:
+      - label: 模型数量
+        value: "10+"
+        icon: i-heroicons-cpu-chip
+
+  - title: 公务员备考
+    icon: i-heroicons-clipboard-document-list
+    description: 参加4场考试，完成大量练习题目
+    image: /images/study/exam.png
+    highlights:
+      - label: 考试次数
+        value: "4"
+        icon: i-heroicons-pencil
+      - label: 模拟试卷
+        value: "20+"
+        icon: i-heroicons-document-duplicate
+      - label: 申论作文
+        value: "10+"
+        icon: i-heroicons-pencil-square
+
+  - title: 荣誉与奖励
+    icon: i-heroicons-trophy
+    description: 获得多项荣誉称号和奖学金
+    image: /images/study/scholar.png
+    highlights:
+      - label: 荣誉称号
+        value: "4"
+        icon: i-heroicons-star
+      - label: 奖学金
+        value: "28800"
+        icon: i-heroicons-banknotes
+        unit: 元
+
+  - title: 实践经历
+    icon: i-heroicons-briefcase
+    description: 完成暑期实习，参加学术讲座
+    image: /images/study/intern.png
+    highlights:
+      - label: 实习经历
+        value: "1"
+        icon: i-heroicons-building-office
+      - label: 讲座数量
+        value: "2"
+        icon: i-heroicons-speaker-wave
+
+  - title: 学习场所
+    icon: i-heroicons-building-library
+    description: 频繁使用实验室和图书馆资源
+    image: /images/study/library.png
+    highlights:
+      - label: 实验室次数
+        value: "100+"
+        icon: i-heroicons-beaker
+      - label: 图书馆次数
+        value: "2"
+        icon: i-heroicons-book-open
