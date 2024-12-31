@@ -12,12 +12,12 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
+    "@blakvghost/ui-pro": "^2.0.0",
     "@iconify-json/heroicons": "^1.2.2",
     "@iconify-json/simple-icons": "^1.2.17",
     "@nuxt/content": "^2.13.4",
     "@nuxt/fonts": "^0.10.3",
     "@nuxt/image": "^1.8.1",
-    "@nuxt/ui-pro": "^1.6.0",
     "nuxt": "^3.15.0"
   },
   "devDependencies": {
