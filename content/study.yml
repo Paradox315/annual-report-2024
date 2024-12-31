@@ -78,7 +78,7 @@ sections:
         value: "4"
         icon: i-heroicons-star
       - label: 奖学金
-        value: "28800"
+        value: "28000"
         icon: i-heroicons-banknotes
         unit: 元
 

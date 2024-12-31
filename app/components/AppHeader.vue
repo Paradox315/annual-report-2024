@@ -35,7 +35,7 @@ nuxtApp.hooks.hookOnce("page:finish", () => {
     </template>
    
     <template #right>
-      <UColorModeSelect/>
+      <UColorModeSelect />
     </template>
   </UHeader>
 </template>
